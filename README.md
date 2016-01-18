@@ -10,6 +10,6 @@ Require
 =======
  * Python 2.7
  
- Run example
- ===========
- python ping.py ip
+Run example
+===========
+python ping.py ip
